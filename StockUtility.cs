@@ -13,9 +13,9 @@ namespace StockReport
 
         public class Stocks
         {
-            public string StockName { get; set; }
-            public int shares { get; set; }
-            public int Price { get; set; }
+            public string StockName{ get; set; }
+            public int shares{ get; set; }
+            public int Price{ get; set; }
         }
     }
 }
